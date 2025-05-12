@@ -18,7 +18,7 @@ To set up this project locally, follow the steps below:
      - Viewing student records and their courses
 
 ## ERD (Entity-Relationship Diagram)
-![ERD](images/Students-Record.png) 
+![ERD](Students-Record.png) 
 
 
 ## Files Included
