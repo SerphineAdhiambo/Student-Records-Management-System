@@ -18,7 +18,7 @@ To set up this project locally, follow the steps below:
      - Viewing student records and their courses
 
 ## ERD (Entity-Relationship Diagram)
-![ERD](images/erd_diagram.png) 
+![ERD](images/Students-Record.png) 
 
 
 ## Files Included
@@ -29,4 +29,4 @@ To set up this project locally, follow the steps below:
 - MySQL Database
 
 ## Author
-Serphne Adhiambo
+Serphine Adhiambo
